@@ -4,7 +4,7 @@ if(isset($_POST["submit"]))
 {
 		$ans = $_POST['answer'];
 
-	if($ans=="aluminium" || $ans=="Aluminium" || "ALUMINIUM"){
+	if($ans=="aluminium" || $ans=="Aluminium" || $ans=="ALUMINIUM"){
 		header("location: s2.html");
 	}
 }
