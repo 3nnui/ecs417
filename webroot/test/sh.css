@@ -1,0 +1,19 @@
+body{
+  background-color: #720ef5;
+  background-image: url("https://www.transparenttextures.com/patterns/green-gobbler.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  color: #e6e6e6;
+  padding: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+  .pad{
+    margin: 0;
+     position: absolute;               /* 2 */
+     top: 50%;                         /* 3 */
+     transform: translate(0, -50%) }   /* 4 */
+
+  }
+
+  input, textarea {
+  background-color: blue;
+}
