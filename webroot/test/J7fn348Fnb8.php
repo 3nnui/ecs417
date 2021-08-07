@@ -39,7 +39,7 @@ LAST LOGIN: WED SEP 07      76:21:9
   <i>TUE MAY 09               01:27:34</i>  &emsp;&emsp; ><b>I</b> have appeared <b>many</b> times after that.<br>
   <i>TUE MAY 09               01:27:56</i>  &emsp;&emsp; >I am a <b>prisoner</b> at <b>S**********</b> ************ despite getting <b>out</b> before <br>
   <i>TUE MAY 09               01:28:09</i>  &emsp;&emsp; >Briefly I was associated with a clown on TV.<br>
-  <i>TUE MAY 09               01:28:59</i>  &emsp;&emsp; >Give me the <b>name<b> that I am known by.
+  <i>TUE MAY 09               01:28:59</i>  &emsp;&emsp; >Give me the <b>name</b> that I am known by.
 
 <br>
 <br>
