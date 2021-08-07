@@ -25,6 +25,13 @@ strtolower($ans);
 	</title>
 	</head>
 	<body>
+		<style>
+		body{
+		font-size: 1.5em;
+	}
+
+
+		</style>
   <div class = "crt">
 
 LAST LOGIN: WED SEP 07      76:21:9
@@ -45,7 +52,7 @@ LAST LOGIN: WED SEP 07      76:21:9
 <br>
 <br>
 <form method = "POST">
-               <input type="text" name="answer" STYLE="font-family: Verdana; font-weight: bold; font-size: 12px; background-color: black; color: red; " size="10" maxlength="30">
+               <input type="text" name="answer" STYLE="font-family:; font-weight: bold; font-size: 12px; background-color: black; color: grey; " size="10" maxlength="30">
 
                <input type="submit" name="submit" value="????" STYLE="font-family: Verdana; font-weight: bold; font-size: 12px; background-color: grey;" size="10" maxlength="30">
 
