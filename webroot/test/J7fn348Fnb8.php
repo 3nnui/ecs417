@@ -6,7 +6,7 @@ if(isset($_POST["submit"]))
 
 strtolower($ans);
 
-	if($ans=="side show bob" || $ans=="sideshow bob"|| $ans=="SIDESHOW BOB"|| $ans=="SIDE SHOW BOB"){
+	if($ans=="side show bob" || $ans=="sideshow bob"|| $ans=="SIDESHOW BOB"|| $ans=="SIDE SHOW BOB"|| $ans=="Sideshow Bob"|| $ans=="SideShow Bob"){
 		header("location: ye.html");
 	}
 }
