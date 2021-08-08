@@ -34,20 +34,20 @@ strtolower($ans);
 		</style>
   <div class = "crt">
 
-LAST LOGIN: WED SEP 07      76:21:9
-<br> SESSION ID: -8939033
+LAST LOGIN: WED SEP. 7      79/80/2
+<br> SESSION ID: -89.650037
 <br>
 <br>
 
   <i>TUE MAY 09               01:26:56</i>  &emsp;&emsp; >i am a graduate from yale and i write in <b>Blood.</b><br>
   <i>TUE MAY 09               01:27:10</i>  &emsp;&emsp; >my <b>Appearance</b> is <b>Rare.</b><br>
-  <i>TUE MAY 09               01:27:22</i>  &emsp;&emsp; >i appeared once in the third year,<br>
-  <i>TUE MAY 09               01:27:24</i>  &emsp;&emsp; >then in the fifth, sixth, seventh and eighth,<br>
+  <i>TUE MAY 09               01:27:22</i>  &emsp;&emsp; >i appeared once in the first year,<br>
+  <i>TUE MAY 09               01:27:24</i>  &emsp;&emsp; >then once in the third, fifth, sixth, seventh and eighth,<br>
   <i>TUE MAY 09               01:27:29</i>  &emsp;&emsp; >then not again till the twelfth.<br>
   <i>TUE MAY 09               01:27:34</i>  &emsp;&emsp; >i have appeared many times after that.<br>
   <i>TUE MAY 09               01:27:42</i>  &emsp;&emsp; >by my count we are in the 32nd year.<br>
-  <i>TUE MAY 09               01:27:56</i>  &emsp;&emsp; >i am a prisoner at a place that begins with an S.<br>
-  <i>TUE MAY 09               01:27:58</i>  &emsp;&emsp; >i've escaped many <b>Times</b> before.<br>
+  <i>TUE MAY 09               01:27:56</i>  &emsp;&emsp; >i am an inmate at a penitentiary;<br>
+  <i>TUE MAY 09               01:27:58</i>  &emsp;&emsp; >although i've gotten out many <b>Times</b> before.<br>
   <i>TUE MAY 09               01:28:09</i>  &emsp;&emsp; >briefly i was associated with a clown on tv.<br>
   <i>TUE MAY 09               01:28:59</i>  &emsp;&emsp; >give me the name that i am known by.
 
