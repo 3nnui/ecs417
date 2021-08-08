@@ -46,7 +46,7 @@ LAST LOGIN: WED SEP. 7      79/80/2
   <i>TUE MAY 09               01:27:29</i>  &emsp;&emsp; >then not again till the twelfth.<br>
   <i>TUE MAY 09               01:27:34</i>  &emsp;&emsp; >i have appeared many times after that.<br>
   <i>TUE MAY 09               01:27:42</i>  &emsp;&emsp; >by my count we are in the 32nd year.<br>
-  <i>TUE MAY 09               01:27:56</i>  &emsp;&emsp; >i am an inmate at a penitentiary;<br>
+  <i>TUE MAY 09               01:27:56</i>  &emsp;&emsp; >i'm kept prisoner at a penitentiary,<br>
   <i>TUE MAY 09               01:27:58</i>  &emsp;&emsp; >although i've gotten out many <b>Times</b> before.<br>
   <i>TUE MAY 09               01:28:09</i>  &emsp;&emsp; >briefly i was associated with a clown on tv.<br>
   <i>TUE MAY 09               01:28:59</i>  &emsp;&emsp; >give me the name that i am known by.
